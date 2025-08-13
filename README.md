@@ -10,6 +10,7 @@
 ## Links to my project repositories:
 - 🎮 GameShop Application: https://github.com/McGill-ECSE321-Fall2024/project-group-10
 - 📦 WareFlow Application: https://github.com/JudeSousou1/wareflow-application
+- 📝 Task Manager Application: https://github.com/JudeSousou1/task-manager-jwt-authentication
 ##
 
 ## My first ever coding project:
