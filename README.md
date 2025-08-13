@@ -12,7 +12,7 @@
 - 📦 WareFlow Application: https://github.com/JudeSousou1/wareflow-application
 ##
 
-## My first ever coding project for a client:
+## My first ever coding project:
 Here is the link that contains all the HTML and CSS files: https://github.com/JudeSousou1/online-baking-business
 Here is a video showing the website: https://youtu.be/FsQ7x05MhfE
 ##
