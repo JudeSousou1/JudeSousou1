@@ -3,6 +3,8 @@
 #### 
 - 🎓 4th-year Software Engineering Co-op student @ McGill University
 - 💻 Passionate about AI and Machine Learning
+- 👩🏻‍💻 Interned as a Full-Stack Developer Intern @ a startup called DriveTech from May-July 2025
+- 🗓️ Interned as a Java Development Intern @ ProgressSoft Corporation from May-August 2024
 ##
 
 ## Technical Skills: 
