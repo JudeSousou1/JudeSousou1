@@ -14,8 +14,8 @@
 ##
 
 ## My first ever coding project:
-Here is the link that contains all the HTML and CSS files: https://github.com/JudeSousou1/online-baking-business
-Here is a video showing the website: https://youtu.be/FsQ7x05MhfE
+- Here is the link that contains all the HTML and CSS files: https://github.com/JudeSousou1/online-baking-business
+- Video tour of the website: https://youtu.be/FsQ7x05MhfE
 ##
 
 ## Certifications and Badges 💯:
