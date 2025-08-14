@@ -23,6 +23,20 @@ Here is a video showing the website: https://youtu.be/FsQ7x05MhfE
 Google AI Essentials, Google Cloud Introduction, Google Cloud Introduction to Large Language Models
 ##
 
+## Languages 🗣️:
+English (Fluent), Arabic (Fluent), French (Intermediate)
+
+## Soft Skills 👩🏻‍💻:
+- Leadership
+- Communication
+- Collaboration
+- Teamwork
+- Time Management
+- Adaptability
+- Perserverance
+- Creativity
+- Problem-solving
+
 ## Social 📫:
 ###
 - Email: jude.sousou@mail.mcgill.ca
