@@ -3,9 +3,14 @@
 #### 
 - 🎓 4th-year Software Engineering Co-op student @ McGill University
 - 💻 Passionate about AI and Machine Learning
-- 💪🏻 Skilled in Python, Java, C, Bash, JavaScript, OCaml, Arm Assembly, VHDL, MATLAB
-- ☁️ Cloud and Databases: Google Cloud Platform (GCP), Firebase Authentication, Firestore, PostgreSQL, SQL
 ##
+
+## Technical Skills: 
+Programming Languages: Python, Java, JavaScript, Bash, C, HTML/CSS, Arm Assembly, OCaml, MATLAB
+Frameworks & Libraries: React, Spring Boot, Spring Security, Angular, Vue.js, Pyomo, Gurobi, Java Servlets
+Cloud & Databases: Google Cloud Platform (GCP), Firebase Authentication, Firestore, SQL, PostgreSQL
+Testing & Methodologies: JUnit, Cucumber, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
+Tools & Platforms: Docker, Git, Jira, Conda, macOS, Windows, Linux (Ubuntu, Unix)
 
 ## Links to my project repositories:
 - 🎮 GameShop Application: https://github.com/McGill-ECSE321-Fall2024/project-group-10
