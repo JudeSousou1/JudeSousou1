@@ -26,17 +26,6 @@ Google AI Essentials, Google Cloud Introduction, Google Cloud Introduction to La
 ## Languages 🗣️:
 English (Fluent), Arabic (Fluent), French (Intermediate)
 
-## Soft Skills 👩🏻‍💻:
-- Leadership
-- Communication
-- Collaboration
-- Teamwork
-- Time Management
-- Adaptability
-- Perserverance
-- Creativity
-- Problem-solving
-
 ## Social 📫:
 ###
 - Email: jude.sousou@mail.mcgill.ca
