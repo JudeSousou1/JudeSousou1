@@ -6,16 +6,18 @@
 ##
 
 ## Technical Skills: 
-Programming Languages: Python, Java, JavaScript, Bash, C, HTML/CSS, Arm Assembly, OCaml, MATLAB
-Frameworks & Libraries: React, Spring Boot, Spring Security, Angular, Vue.js, Pyomo, Gurobi, Java Servlets
-Cloud & Databases: Google Cloud Platform (GCP), Firebase Authentication, Firestore, SQL, PostgreSQL
-Testing & Methodologies: JUnit, Cucumber, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
-Tools & Platforms: Docker, Git, Jira, Conda, macOS, Windows, Linux (Ubuntu, Unix)
+- **Programming Languages**: Python, Java, JavaScript, Bash, C, HTML/CSS, Arm Assembly, OCaml, MATLAB
+- **Frameworks & Libraries**: React, Spring Boot, Spring Security, Angular, Vue.js, Pyomo, Gurobi, Java Servlets
+- **Cloud & Databases**: Google Cloud Platform (GCP), Firebase Authentication, Firestore, SQL, PostgreSQL
+- **Testing & Methodologies**: JUnit, Cucumber, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
+- **Tools & Platforms**: Docker, Git, Jira, Conda, macOS, Windows, Linux (Ubuntu, Unix)
 
 ## Links to my project repositories:
 - 🎮 GameShop Application: https://github.com/McGill-ECSE321-Fall2024/project-group-10
 - 📦 WareFlow Application: https://github.com/JudeSousou1/wareflow-application
 - 📝 Task Manager Application: https://github.com/JudeSousou1/task-manager-jwt-authentication
+- 📁 File Comparator: https://github.com/JudeSousou1/file-comparison
+- 📚 Java Servlets School System Application: https://github.com/JudeSousou1/school-system
 ##
 
 ## My first ever coding project:
